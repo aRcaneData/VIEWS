@@ -1,0 +1,19 @@
+"names","variable","value"
+"Full Ensemble","s2",0.512022311907276
+"Average of RF Models from Ensemble","s2",0.530012929498314
+"RF Merged Dataframe (only Africa)","s2",0.562365332728065
+"Full Ensemble","s3",0.562595532630502
+"Average of RF Models from Ensemble","s3",0.572963047718061
+"RF Merged Dataframe (only Africa)","s3",0.606807003268682
+"Full Ensemble","s4",0.579584358966391
+"Average of RF Models from Ensemble","s4",0.579613542983163
+"RF Merged Dataframe (only Africa)","s4",0.626780818611285
+"Full Ensemble","s5",0.604171739295686
+"Average of RF Models from Ensemble","s5",0.610482514439706
+"RF Merged Dataframe (only Africa)","s5",0.656365893868023
+"Full Ensemble","s6",0.618134499608369
+"Average of RF Models from Ensemble","s6",0.626924444884875
+"RF Merged Dataframe (only Africa)","s6",0.650332842346273
+"Full Ensemble","s7",0.634868254777292
+"Average of RF Models from Ensemble","s7",0.638933081843748
+"RF Merged Dataframe (only Africa)","s7",0.677096047951042
